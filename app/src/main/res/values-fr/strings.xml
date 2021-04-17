@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">semaine 3</string>
+    <string name="action_settings">paramètres</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Bienvenue dans ma première application Android</string>
+    <string name="second_fragment_label">cest ma première application Android</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Précédente</string>
+
+    <string name="hello_first_fragment">Bonjour premier fragment</string>
+    <string name="hello_second_fragment">Bonjour deuxième fragment</string>
+</resources>
